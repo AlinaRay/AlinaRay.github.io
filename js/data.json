@@ -1,0 +1,334 @@
+[
+  {
+    "src": "./img/main/projects/img-1.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-1.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-2.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-2.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-3.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-3.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-4.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-4.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-5.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-5.jpg",
+    "name": "img-5.png",
+    "align": "big",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-6.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-6.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-7.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-7.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-8.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-8.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-9.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-9.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-10.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-10.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-11.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-11.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-12.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-12.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-13.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-13.jpg",
+    "align": "big",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-14.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-14.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-15.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-15.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-17.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-17.jpg",
+    "align": "big",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-19.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-19.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-21.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-21.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-28.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-28.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-24.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-24.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-23.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-23.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-25.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-25.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-26.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-26.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-29.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-29.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-27.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-27.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-22.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-22.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-30.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-30.jpg",
+    "align": "big",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-31.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-31.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-32.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-32.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-33.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-33.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-34.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-34.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-35.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-35.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-36.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-36.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-37.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-37.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-38.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-38.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-39.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-39.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-40.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-40.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-41.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-41.jpg",
+    "align": "vertical",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-42.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-42.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-44.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-44.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-45.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-45.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-46.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-46.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-47.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-47.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-48.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-48.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-49.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-49.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-58.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-58.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-51.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-51.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-52.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-52.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-53.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-53.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in-up"
+  },
+  {
+    "src": "./img/main/projects/img-55.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-55.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-54.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-54.jpg",
+    "align": "horizontal",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-56.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-56.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-50.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-50.jpg",
+    "align": "horizontal",
+    "aos": "zoom-in"
+  },
+  {
+    "src": "./img/main/projects/img-43.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-43.jpg",
+    "align": "vertical",
+    "aos": "fade-up"
+  },
+  {
+    "src": "./img/main/projects/img-0.jpg",
+    "dataSrc": "./img/main/projects/data-src/img-0.jpg",
+    "align": "end",
+    "aos": "fade-up"
+  }
+]
+

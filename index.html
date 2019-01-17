@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="portfolio">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Gruppo|Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+    <title>Photo Gallery</title>
+</head>
+<body>
+<header id="home">
+    <div class="logo logo__header">
+        <img class="logo--item" src="img/logo.png" alt="logo">
+    </div>
+    <h1 class="title">photographer</h1>
+    <nav class="nav">
+        <ul class="nav--list">
+            <li class="nav--list--item"><a class="link-home" title="HOME">HOME</a></li>
+            <li class="nav--list--item"><a class="link-projects" title="PROJECTS">PROJECTS</a></li>
+            <li class="nav--list--item"><a class="link-contacts" title="CONTACTS">CONTACTS</a></li>
+        </ul>
+    </nav>
+    <nav class="nav nav--hidden">
+        <ul class="nav--list nav--list--hidden">
+            <li class="nav--list--item"><a class="link-home" title="HOME">HOME</a></li>
+            <li class="nav--list--item"><a class="link-projects" title="PROJECTS">PROJECTS</a></li>
+            <li class="nav--list--item"><a class="link-contacts" title="CONTACTS">CONTACTS</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <div class="form-wrapper">
+        <form class="form">
+            <label aria-label="input"><input class="form__input" type="text" name="name"placeholder="NAME"></label>
+            <label aria-label="input"><input class="form__input" type="tel" name="phone" placeholder="PHONE"></label>
+            <label aria-label="input"><textarea class="form__textarea form__input" name="text"placeholder="COMMENT"></textarea></label>
+            <button class="form__button">SEND</button>
+        </form>
+    </div>
+    <div class="test">
+    <div class="scroll">
+        <button class="scroll--bar" title="button"><span class="scroll--bar--text">CONTACT</br>ME</span></button>
+    </div>
+    </div>
+    <div class="project--container" id="projects"></div>
+    <template id="project--template">
+            <div class="project">
+                <img class="project--item" src="" alt="photo">
+            </div>
+    </template>
+</main>
+<footer>
+   <div class="contacts" id="contacts">
+        <div class="contacts--item">
+            <div class="contacts--item--title">Aylin Ray</div>
+            <div class="contacts--item--title">photographer</div>
+            <a href="tel:+380633434330">+38 063 343 43 30</a>
+            <address class="contacts--item--address">
+                <a href="mailto:aylinrayphoto@gmail.com">aylinrayphoto@gmail.com</a><br>
+                Kiev<br>
+                UA<br>
+            </address>
+        </div>
+    </div>
+    <div class="logo logo__footer">
+        <img class="logo--item" src="img/logo.png" alt="logo">
+    </div>
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="./js/data.json"></script>
+<script src="./js/blazy.min.js"></script>
+<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+<script src="js/AOSconfig.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
